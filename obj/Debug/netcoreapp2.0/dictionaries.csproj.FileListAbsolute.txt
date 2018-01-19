@@ -1,0 +1,10 @@
+/Users/capewearingmama/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp2.0/dictionaries.deps.json
+/Users/capewearingmama/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp2.0/dictionaries.runtimeconfig.json
+/Users/capewearingmama/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp2.0/dictionaries.runtimeconfig.dev.json
+/Users/capewearingmama/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp2.0/dictionaries.dll
+/Users/capewearingmama/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp2.0/dictionaries.pdb
+/Users/capewearingmama/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp2.0/dictionaries.csproj.CoreCompileInputs.cache
+/Users/capewearingmama/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp2.0/dictionaries.AssemblyInfoInputs.cache
+/Users/capewearingmama/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp2.0/dictionaries.AssemblyInfo.cs
+/Users/capewearingmama/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp2.0/dictionaries.dll
+/Users/capewearingmama/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp2.0/dictionaries.pdb
